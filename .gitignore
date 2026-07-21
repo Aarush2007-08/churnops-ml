@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Env
+.env
+.env.local
+
+# Misc
+.DS_Store
+backend.zip
+mock_customers.csv
